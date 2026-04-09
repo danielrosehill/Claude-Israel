@@ -8,6 +8,12 @@ An index of people, companies, and projects building with [Claude](https://claud
 
 ## Agent Skills
 
+Hubs and catalogues:
+
+- [agentskills.co.il](https://agentskills.co.il/en) — Israeli Agent Skills catalogue.
+- [skills-il](https://github.com/skills-il) — GitHub org behind the catalogue.
+- [awesome-agent-skills-israel](https://github.com/alexpolonsky/awesome-agent-skills-israel) — curated awesome list of Israeli Agent Skills.
+
 Individual Claude Agent Skills targeting Israeli services and data.
 
 ### Healthcare
@@ -69,6 +75,8 @@ For Israeli MCP servers usable with Claude and Claude Code, see the main index: 
 ## Related
 
 - [Israeli-AI-Tools-And-Utilities](https://github.com/danielrosehill/Israeli-AI-Tools-And-Utilities) — broader index of Israeli AI tools, MCP servers, and agent skills.
+- [awesome-agent-skills-israel](https://github.com/alexpolonsky/awesome-agent-skills-israel) — curated awesome list of Israeli Agent Skills.
+- [AI-Resource-Maps](https://github.com/danielrosehill/AI-Resource-Maps) — Daniel's broader collection of AI resource maps and indices.
 
 ## Scope
 
