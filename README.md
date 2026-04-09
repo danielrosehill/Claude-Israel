@@ -53,6 +53,10 @@ For Israeli MCP servers usable with Claude and Claude Code, see the main index: 
 
 ## Community
 
+### Meetups
+
+- [Claude Israel User Group](https://www.meetup.com/en-au/claude-israel-user-group/)
+
 ### Facebook Groups
 
 - [Claude Israel](https://www.facebook.com/groups/902817888462861/)
