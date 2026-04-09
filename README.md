@@ -4,6 +4,8 @@
 
 An index of people, companies, and projects building with [Claude](https://claude.ai) — including Claude Code — in Israel.
 
+> **Fun fact:** [Israel leads global Claude Code adoption in 2026](https://holylabs.net/en/blog/israel-leads-claude-code-adoption-2026).
+
 ## Agent Skills
 
 Individual Claude Agent Skills targeting Israeli services and data.
@@ -62,6 +64,7 @@ For Israeli MCP servers usable with Claude and Claude Code, see the main index: 
 - [Claude Israel](https://www.facebook.com/groups/902817888462861/)
 - [claudeisrael.co.il](https://www.facebook.com/groups/www.claudeisrael.co.il/)
 - [Cladue](https://www.facebook.com/groups/cladue/)
+- [MDLI1](https://www.facebook.com/groups/MDLI1/)
 
 ## Related
 
