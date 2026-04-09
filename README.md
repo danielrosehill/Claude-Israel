@@ -2,18 +2,9 @@
 
 An index of people, companies, and projects building with [Claude](https://claude.ai) — including Claude Code — in Israel.
 
-## Scope
-
-- Israeli developers, teams, and companies using Claude or Claude Code
-- Open source projects from Israel built on Claude / Anthropic APIs
-- Claude Code workflows, plugins, skills, and agents authored in Israel
-- Meetups, talks, and community activity around Claude in Israel
-
 ## Claude Code
 
 Claude Code–specific workflows, plugins, and Agent Skills built in Israel or for Israeli services.
-
-Many of the skills below are sourced from [Israeli-AI-Tools-And-Utilities](https://github.com/danielrosehill/Israeli-AI-Tools-And-Utilities) — a broader index of Israel-focused AI tooling.
 
 ### Agent Skills
 
@@ -31,33 +22,79 @@ Individual Claude Agent Skills targeting Israeli services and data.
 
 ### Skill Collections
 
-- [Skills IL](https://github.com/skills-il) ([agentskills.co.il](https://agentskills.co.il)) — open-source collection of 127+ Agent Skills across 12 categories (tax, gov, localization, health, legal, etc.) built for Israeli-specific needs. Works with Claude Code and other agents. Built by [YooTech](https://yootech.io/). CLI: `npx skills` via [skills-il-cli](https://github.com/skills-il/skills-il-cli).
+- [Skills IL](https://github.com/skills-il) — [agentskills.co.il](https://agentskills.co.il/en) — open-source collection of 127+ Agent Skills across 12 categories (tax, gov, localization, health, legal, etc.) built for Israeli-specific needs. Works with Claude Code and other agents. Built by [YooTech](https://yootech.io/). CLI: `npx skills` via [skills-il-cli](https://github.com/skills-il/skills-il-cli).
 
-### See Also
+## MCP Servers
 
-- [Israeli-AI-Tools-And-Utilities](https://github.com/danielrosehill/Israeli-AI-Tools-And-Utilities) — broader index of Israeli AI tools, MCP servers, and agent skills.
+Israeli MCP servers usable with Claude and Claude Code. For an exhaustive catalogue, see [Israeli-AI-Tools-And-Utilities](https://github.com/danielrosehill/Israeli-AI-Tools-And-Utilities) — the broader index maintained alongside this list.
 
----
+**Finance & Banking**
+- [IL Bank MCP](https://github.com/glekner/il-bank-mcp)
+- [Israeli Bank MCP](https://github.com/mottibec/israeli-bank-mcp)
+- [GreenInvoice MCP](https://github.com/danielrosehill/GreenInvoice-MCP)
+
+**Government & Open Data**
+- [Data.gov.il MCP Server](https://github.com/DavidOsherdiagnostica/data-gov-il-mcp)
+- [DataGov Israel MCP Server](https://github.com/aviveldan/datagov-mcp)
+- [ILBudget MCP](https://github.com/david-aftergut/ILBudget-mcp)
+- [Knesset MCP](https://github.com/zohar/knesset-mcp)
+- [Israel Knesset API MCP](https://github.com/nadavshalev/israel-knesset-api-mcp)
+- [Israel Statistics MCP Server](https://github.com/reuvenaor/israel-statistics-mcp)
+
+**Healthcare**
+- [ILHealth MCP](https://github.com/david-aftergut/ILHealth-mcp)
+- [Israel Drugs MCP Server](https://github.com/DavidOsherdiagnostica/israel-drugs-mcp-server)
+
+**Legal**
+- [Israel Law MCP](https://github.com/Ansvar-Systems/israel-law-mcp)
+
+**Real Estate**
+- [Nadlan MCP](https://github.com/nitzpo/nadlan-mcp)
+- [Urban Guardian MCP](https://github.com/GaryShnol/urban-guardian-mcp)
+- [Remy MCP (Israeli Land Authority)](https://github.com/barvhaim/remy-mcp)
+
+**Safety & Emergency**
+- [Miklat MCP](https://github.com/danielrosehill/Miklat-MCP)
+- [Pikud HaOref Alerts](https://github.com/yaniv-golan/pikud-haoref-alerts)
+- [Red Alert MCP Server](https://github.com/ozba/redalert-mcp-server)
+
+**Shopping & Retail**
+- [KSP MCP](https://github.com/guymon92/ksp-mcp)
+- [Israeli Price Comparison MCP](https://github.com/Simtob-Eran/mcp-israeli-price-comparison)
+- [Israeli Tech Shopping MCP](https://github.com/danielrosehill/Israeli-Tech-Shopping-MCP)
+
+**Transportation**
+- [Routes MCP Israel](https://github.com/yoni-j/routes-mcp-israel)
+
+**Weather**
+- [IMS MCP (Israeli Meteorological Service)](https://github.com/GuyKh/ims-mcp)
+
+**Government Services**
+- [Disabled Parking Permit MCP](https://github.com/MaorEi/disabled-parking-permit-mcp-server)
+
+## Websites
+
+- [claude-ai.co.il](https://claude-ai.co.il/) — Israeli Claude community hub.
+- [agentskills.co.il](https://agentskills.co.il/en) — Skills IL companion website cataloguing Israeli Agent Skills.
 
 ## Community
 
-Israeli Claude / Claude Code community groups, forums, and meeting places.
-
 ### Facebook Groups
 
-- [Claude Israel (902817888462861)](https://www.facebook.com/groups/902817888462861/)
-- [Claude Israel — claudeisrael.co.il](https://www.facebook.com/groups/www.claudeisrael.co.il/)
+- [Claude Israel](https://www.facebook.com/groups/902817888462861/)
+- [claudeisrael.co.il](https://www.facebook.com/groups/www.claudeisrael.co.il/)
 - [Cladue](https://www.facebook.com/groups/cladue/)
 
-### Websites
+## Related
 
-- [claude-ai.co.il](https://claude-ai.co.il/) — Israeli Claude community hub.
+- [Israeli-AI-Tools-And-Utilities](https://github.com/danielrosehill/Israeli-AI-Tools-And-Utilities) — broader index of Israeli AI tools, MCP servers, and agent skills.
 
----
+## Scope
 
-## Contributing
-
-Suggestions welcome — open an issue or PR.
+- Israeli developers, teams, and companies using Claude or Claude Code
+- Open source projects from Israel built on Claude / Anthropic APIs
+- Claude Code workflows, plugins, skills, and agents authored in Israel
+- Meetups, talks, and community activity around Claude in Israel
 
 ## Maintainer
 
