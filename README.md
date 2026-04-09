@@ -9,35 +9,6 @@ An index of people, companies, and projects building with [Claude](https://claud
 - Claude Code workflows, plugins, skills, and agents authored in Israel
 - Meetups, talks, and community activity around Claude in Israel
 
-## Contents
-
-- [People](#people)
-- [Companies](#companies)
-- [Projects](#projects)
-- [Claude Code](#claude-code)
-- [Community](#community)
-- [Contributing](#contributing)
-
----
-
-## People
-
-*Individual builders — contributions welcome.*
-
----
-
-## Companies
-
-*Companies and startups shipping with Claude — contributions welcome.*
-
----
-
-## Projects
-
-*Open source projects and tools — contributions welcome.*
-
----
-
 ## Claude Code
 
 Claude Code–specific workflows, plugins, and Agent Skills built in Israel or for Israeli services.
